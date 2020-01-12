@@ -9,4 +9,11 @@ public class Passenger {
     }
 
 
+    public String getPassengerName() {
+        return name;
+    }
+
+    public int getNumberOfBags() {
+        return numberOfBags;
+    }
 }
